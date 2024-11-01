@@ -10,4 +10,4 @@
 
 [Home Page](README.md)
 
-![](img/UFO.JPG)
+![](img/UFO.jpg)
